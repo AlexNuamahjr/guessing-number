@@ -1,3 +1,4 @@
+import random
 i = 0
 while (i<=4):
   guess_number = 9

@@ -7,4 +7,4 @@ while (i<=4):
        print("you guess correct")
   else:
       print("guess is wrong")
-  i = i+ 1    
+  i = + 1    
